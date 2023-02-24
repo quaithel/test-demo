@@ -1,2 +1,5 @@
-# test-demo
-a simple repository
+# myproject
+
+A [workflowr][] project.
+
+[workflowr]: https://github.com/workflowr/workflowr
